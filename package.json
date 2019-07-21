@@ -1,0 +1,12 @@
+{
+  "name": "fibjs-start",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "fibjs test/test.js",
+    "start": "fibjs main.js"
+  },
+  "author": "zhangjj",
+  "license": "BSD-2-Clause"
+}
